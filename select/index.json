@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "base_track": "泣き地蔵",
+  "base_artist": "Vaundy",
+  "createdAt": "2025-12-03T08:55:26.153986Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "泣き地蔵",
+      "artist": "Vaundy",
+      "has_synced": true,
+      "path": "select/01_泣き地蔵_Vaundy.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "泣き地蔵",
+      "artist": "Vaundy",
+      "has_synced": true,
+      "path": "select/02_泣き地蔵_Vaundy.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "泣き地蔵 - NakiJizo",
+      "artist": "Vaundy",
+      "has_synced": false,
+      "path": "select/03_泣き地蔵_-_NakiJizo_Vaundy.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "泣き地蔵 - NakiJizo",
+      "artist": "Vaundy",
+      "has_synced": true,
+      "path": "select/04_泣き地蔵_-_NakiJizo_Vaundy.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "泣き地蔵",
+      "artist": "Vaundy",
+      "has_synced": false,
+      "path": "select/05_泣き地蔵_Vaundy.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "泣き地蔵",
+      "artist": "Vaundy",
+      "has_synced": false,
+      "path": "select/pl_01_泣き地蔵_Vaundy.txt"
+    }
+  ]
+}
